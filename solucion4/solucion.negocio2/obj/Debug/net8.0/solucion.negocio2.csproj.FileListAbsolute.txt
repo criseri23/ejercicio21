@@ -1,0 +1,5 @@
+C:\Users\PC-1\source\repos\solucion\solucion.negocio2\obj\Debug\net8.0\solucion.negocio2.csproj.AssemblyReference.cache
+C:\Users\PC-1\source\repos\solucion\solucion.negocio2\obj\Debug\net8.0\solucion.negocio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\solucion\solucion.negocio2\obj\Debug\net8.0\solucion.negocio2.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\solucion\solucion.negocio2\obj\Debug\net8.0\solucion.negocio2.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\solucion\solucion.negocio2\obj\Debug\net8.0\solucion.negocio2.csproj.CoreCompileInputs.cache
